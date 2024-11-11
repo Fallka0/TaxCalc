@@ -82,15 +82,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                Console.WriteLine($"Your Price is: {price}");
+                Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
             else if(selectedCarTypeIndex == 1)
@@ -99,15 +99,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                Console.WriteLine($"Your Price is: {price}");
+                Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
             else if(selectedCarTypeIndex == 2)
@@ -116,15 +116,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                Console.WriteLine($"Your Price is: {price}");
+                Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
         }
@@ -138,15 +138,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                Console.WriteLine($"Your Price is: {price}");
+                Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
             else if (selectedCarTypeIndex == 1)
@@ -155,15 +155,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                Console.WriteLine($"Your Price is: {price}");
+                Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
             else if (selectedCarTypeIndex == 2)
@@ -172,15 +172,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
 
@@ -195,15 +195,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
             else if(selectedCarTypeIndex == 1)
@@ -212,15 +212,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if(selectedEnergyEfficiencyIndex == 0)
                {
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
             else if(selectedCarTypeIndex == 2)
@@ -229,15 +229,15 @@ internal class Program
                 if (selectedEnergyEfficiencyIndex == 1) // if Kategore A too
                 {
                     price *= 0.6;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if (selectedEnergyEfficiencyIndex == 2){
                     price *= 0.8;
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                 }
                 else if (selectedEnergyEfficiencyIndex == 0)
                {
-                    Console.WriteLine($"Your Price is: {price}");
+                    Console.WriteLine($"Your Price is: {Math.Round(price, 2)}");
                } 
             }
 

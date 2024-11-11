@@ -12,3 +12,4 @@
 /Users/nick/Desktop/TaxCalc/TaxCalc/obj/Debug/net8.0/TaxCalc.pdb
 /Users/nick/Desktop/TaxCalc/TaxCalc/obj/Debug/net8.0/TaxCalc.genruntimeconfig.cache
 /Users/nick/Desktop/TaxCalc/TaxCalc/obj/Debug/net8.0/ref/TaxCalc.dll
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Debug/net8.0/TaxCalc.sourcelink.json

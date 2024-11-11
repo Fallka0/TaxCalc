@@ -1,0 +1,5 @@
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/publish/TaxCalc
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/publish/TaxCalc.dll
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/publish/TaxCalc.deps.json
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/publish/TaxCalc.runtimeconfig.json
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/publish/TaxCalc.pdb
