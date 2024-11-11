@@ -1,0 +1,14 @@
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/TaxCalc
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/TaxCalc.deps.json
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/TaxCalc.runtimeconfig.json
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/TaxCalc.dll
+/Users/nick/Desktop/TaxCalc/TaxCalc/bin/Release/net8.0/TaxCalc.pdb
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.AssemblyInfoInputs.cache
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.AssemblyInfo.cs
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.csproj.CoreCompileInputs.cache
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.dll
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/refint/TaxCalc.dll
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.pdb
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/TaxCalc.genruntimeconfig.cache
+/Users/nick/Desktop/TaxCalc/TaxCalc/obj/Release/net8.0/ref/TaxCalc.dll
